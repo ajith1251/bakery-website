@@ -104,3 +104,8 @@ function deleteItemFromCart(pid){
 $(document).ready(function(){
     updateCart();
 }); 
+
+
+function Checkout () {
+      window.location.href = "checkout.html"
+}
