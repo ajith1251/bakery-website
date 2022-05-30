@@ -1,5 +1,6 @@
 <html>
 <head>
+	<title>Our Kitchen</title>
 	<meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel = "shortcut icon" href="favicon.ico" type="image/x-icon">
@@ -241,6 +242,29 @@
 		}
 
 
+		#heading{
+        	background-color: rgba(255, 255, 255, 0.9);
+        	text-align: center;
+        	margin: 5% 5% 0% 5%;
+        	padding: 2%;
+            height: auto;
+            width: auto;
+            overflow: hidden;
+        }
+
+        #heading h1{
+            font-family: 'Parisienne', cursive;
+            font-size: 40px;
+            text-shadow: 2px 2px #40916C;
+        }
+
+        #heading h4{
+            font-style: italic;
+            font-weight: lighter;
+            color: grey;
+        }
+
+
 		#chefs{
 			display: flex;
 			flex-wrap:wrap;
@@ -324,6 +348,7 @@
             font-size: 1rem;
             border-radius: 50%;
             transition: 1.5s ease-in-out;
+            color: black;
         }
 
 
@@ -424,10 +449,17 @@
 	</div>
 
 
-<!--CHEF'S PART-->
-	<h1 style="font-family:serif;color:purple;margin:2% 0 0 0;" align="center"><u><i>"A recipe has no soul. You, as the cook, must bring <br>soul to the recipe." - Thomas Keller</i></u></h1>
-	<p  style="font-family:serif;color:black;margin:2% 0 0 0;font-size:3em" align="center"><u><i><b>OUR TOP CHEFS</b></i></u></p>
+
+	<!--  C H E F ' S   P A R T  -->
+
+
+	<div id="heading">
+        <h1>Our Top Chefs</h1>
+        <h4>"A recipe has no soul. You, as the cook, must bring soul to the recipe."<br>- Thomas Keller</h4>
+    </div>
+
 	<div id="chefs">
+
 		<!-- all images from unsplash -->
 
 		<div class="image">
