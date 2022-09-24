@@ -5,7 +5,7 @@ This repository contains the complete code for a ***front-end only*** model of a
 ## About the project
 
 On opening the `Homepage.html`, you'll reach the homepage for the website. There, you'll see a navigation bar on top which links to all other pages, a 
-user icon and a cart icon. Moving down, you'll see some special deals, a brief about-us, a map etc.  
+user icon and a cart icon. Moving down, you'll see some special deals, a brief about us, a map etc.  
 
 https://user-images.githubusercontent.com/92393664/170943840-3eae7ae6-f6dc-426a-8e9a-d7d29e641d1c.mp4  
 
@@ -67,7 +67,7 @@ https://user-images.githubusercontent.com/92393664/170964060-ed5baf42-f808-438b-
 
 
 
-Next comes the FAQ page, which can be accessed ony via the navigation and opens in a new tab.  
+Next comes the FAQ page, which can be accessed only via the navigation bar and opens in a new tab.  
 
 https://user-images.githubusercontent.com/92393664/170963652-71b3b32b-dd9e-4aa9-9932-ab0b07e9c881.mp4
 
